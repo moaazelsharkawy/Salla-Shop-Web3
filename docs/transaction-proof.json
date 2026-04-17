@@ -1,0 +1,12 @@
+{
+  "contract": "CAG3UWYIL2FAOTAI4TP7YZGGIMWAMTAABRCVJERHCDWP4JDYKUAS65SB",
+  "operation": "subscribe",
+  "status": "SUCCESS",
+  "balance_change": {
+    "asset": "Native Pi",
+    "amount": "1.0000000",
+    "from": "USER_PUBLIC_KEY_H7VZ",
+    "to": "MERCHANT_PUBLIC_KEY_6GTIR"
+  },
+  "events": ["approve", "transfer", "sub"]
+}
